@@ -9,5 +9,4 @@
       <a href="https://lua.org">
       <img src="https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=plastic" alt="Lua Badge">
       </a>
-      
 </div>
